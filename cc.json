@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "currency": "USD",
+    "taxAmountCents": 0,
+    "taxType": null,
+    "totalPriceAmountCents": 100,
+    "basePriceAmountCents": 100,
+    "discountCents": 0,
+    "nextBillTotalPriceAmountCents": 100,
+    "renewalInterval": "month",
+    "freeTrialDays": null
+}
